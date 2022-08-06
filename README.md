@@ -1,5 +1,4 @@
-# eLIB-C
-## digital-library-index (or) 
+# eLIBi (or) digital-library-index
 
 Basic &amp; simple digital library indexing program
 
