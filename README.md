@@ -1,7 +1,7 @@
 # eLIBi
 
-eLIBI stands for digital-library-index
+eLIBI stands for digital-library-index.
 
-Basic and simple digital library indexing program
+It's a basic and simple digital library indexing program programmed in C lang.
 
-Electronic library management and books' details retrieval system programmed in C
+Functions as an electronic library management and books' details retrieval system .
